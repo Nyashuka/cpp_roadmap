@@ -7,7 +7,7 @@
 
 * [Open(SVG format) as page](https://raw.githubusercontent.com/Nyashuka/cpp_roadmap/main/files/roadmap.svg)
 ---
-## Useful resources
+## :page_facing_up: Useful resources
 * [C++ documentation](https://en.cppreference.com/w)
 * [Design patterns](https://refactoring.guru/design-patterns/cpp)
 * [Setup QT for android build](https://doc.qt.io/qt-5/android-getting-started.html)
