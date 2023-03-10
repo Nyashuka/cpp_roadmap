@@ -1,4 +1,4 @@
-#<p align="center" > C++ Developer Roadmap</p>
+# C++ Developer Roadmap
 
 ---
 ## :milky_way: Roadmap
