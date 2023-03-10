@@ -11,6 +11,7 @@
 * [C++ documentation](https://en.cppreference.com/w)
 * [Design patterns](https://refactoring.guru/design-patterns/cpp)
 * [Setup QT for android build](https://doc.qt.io/qt-5/android-getting-started.html)
+* [Cmake](https://cmake.org/)
 ---
 ## :ledger: Learn resources
 * [Youtube channels](https://github.com/Nyashuka/cpp_roadmap/blob/main/learn_resources/youtube.md)
