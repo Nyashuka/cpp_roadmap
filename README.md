@@ -17,5 +17,4 @@
 ## :ledger: Learn resources
 * [Youtube channels](https://github.com/Nyashuka/cpp_roadmap/blob/main/learn_resources/youtube.md)
 * [Resources with tasks for practice](https://github.com/Nyashuka/cpp_roadmap/blob/main/learn_resources/practical_tasks.md)
-* [Books](https://github.com/Nyashuka/cpp_roadmap/blob/main/learn_resources/books.md)
 ---
