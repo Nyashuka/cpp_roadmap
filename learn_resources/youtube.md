@@ -10,4 +10,5 @@
 * [CppNuts](https://www.youtube.com/user/MrRupeshyadav)
 * [Jason Turner](https://www.youtube.com/user/lefticus1)
 * [javidx9 (Programming and Technology Tutorials from a different perspective)](https://www.youtube.com/c/javidx9)
+* [Bisqwit](https://www.youtube.com/@Bisqwit/featured)
 ---
