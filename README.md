@@ -10,7 +10,7 @@
 * [Design patterns (Begginers)](https://refactoring.guru/design-patterns/cpp)
 * [Design patterns (Advanced)](https://gameprogrammingpatterns.com/contents.html)
 * [Setup QT for android build](https://doc.qt.io/qt-5/android-getting-started.html)
-* [Cmake](https://cmake.org/)
+* [Cmake](https://cmake.org/) | [Documentation](https://cmake.org/documentation/)
 * [A list of great C/C++ frameworks, libraries, resources, and shiny stuff](https://cpp.libhunt.com/)
 ---
 ## :ledger: Learn resources
