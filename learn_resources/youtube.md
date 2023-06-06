@@ -6,6 +6,7 @@
 * [Blogan Programming](https://www.youtube.com/@BloganProgramming)
 ---
 ## English
+* [TheCherno](https://www.youtube.com/@TheCherno)
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
 * [CppNuts](https://www.youtube.com/user/MrRupeshyadav)
 * [Jason Turner](https://www.youtube.com/user/lefticus1)
